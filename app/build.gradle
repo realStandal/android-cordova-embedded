@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 def verMajor = 1
-def verMinor = 1
+def verMinor = 0
 def verPatch = 0
 
 android {
